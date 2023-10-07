@@ -17,15 +17,15 @@ Predicting bike-sharing demand can help bike-sharing companies to allocate bikes
 
 
 
-###1. Understanding the problem:
+1. Understanding the problem:
  We will analyze the given dataset and find meaningful assumptions regarding the significance of this problem.
 
-###2. EDA: 
+2. EDA: 
 While doing Exploratory Data Analysis, we will find meaningful information from the dataset.
 
-###3. Applying Models: 
+3. Applying Models: 
 We will use different regression models and find which model best fits our dataset to find the best prediction.
 
-###4. Feature Importance: 
+4. Feature Importance: 
 We will also obtain which features will most likely affect the dependent variable (number of bikes rented) in each model.
 
